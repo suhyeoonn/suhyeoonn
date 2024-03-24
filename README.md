@@ -30,8 +30,17 @@ Here are some ideas to get you started:
 
 ### Todo List 🌱
   - [ ] Algorithm
-  - [ ] React
-  - [ ] TypeScript
+    - [ ] 그리디, 탐색, 기초 동적프로그래밍
+    - [ ] 프로그래머스
+  - [ ] React ~ 24.04
+    - [ ] 📃 https://react.dev/learn
+    - [ ] 🎥 https://nomadcoders.co/react-for-beginners
+    - [ ] 🎥 https://nomadcoders.co/react-hooks-introduction
+    - [ ] contribute
+  - [ ] TypeScript ~ 24.05
+    - [ ] 📕 쉽게 시작하는 타입스크립트
+    - [ ] 🎥 https://nomadcoders.co/typescript-for-beginners
+    - [ ] 🎥 https://academy.dream-coding.com/courses/typescript
   - [ ] TanStack Query
   - [ ] Emotion
   - [ ] Nest.js
