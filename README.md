@@ -27,22 +27,3 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Todo List 🌱
-  - [ ] Algorithm
-    - [ ] 그리디, 탐색, 기초 동적프로그래밍
-    - [ ] 프로그래머스
-  - [ ] React ~ 24.04
-    - [ ] 📃 https://react.dev/learn
-    - [ ] 🎥 https://nomadcoders.co/react-for-beginners
-    - [ ] 🎥 https://nomadcoders.co/react-hooks-introduction
-    - [ ] contribute
-  - [ ] TypeScript ~ 24.05
-    - [ ] 📕 쉽게 시작하는 타입스크립트
-    - [ ] 🎥 https://nomadcoders.co/typescript-for-beginners
-    - [ ] 🎥 https://academy.dream-coding.com/courses/typescript
-  - [ ] TanStack Query
-  - [ ] Emotion
-  - [ ] Nest.js
-  - [ ] Docker
-  - [ ] Next.js
